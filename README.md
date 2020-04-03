@@ -6,7 +6,7 @@ Simple crud, para guardar, editar y eliminar tareas en una base de datos Nosql.
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+
 
 
 ### Pre-requisitos 📋
@@ -27,13 +27,6 @@ _Dí cómo será ese paso_
 Da un ejemplo
 ```
 
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
 
 ## Despliegue 📦
