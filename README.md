@@ -1,6 +1,6 @@
-# CRUD con Nodejs, Express y Mongodb
+# CRUD con Nodejs, Express y Mongodb  <img src='https://bettercodehub.com/edge/badge/Feermoya/crud-node-mongo?branch=master'>
 
-<img src='https://bettercodehub.com/edge/badge/Feermoya/crud-node-mongo?branch=master'>
+
 
 Simple crud, para guardar, editar y eliminar tareas en una base de datos Nosql.
 
