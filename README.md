@@ -42,4 +42,3 @@ _Agrega notas adicionales sobre como hacer deploy_
 * [NodeJs](https://nodejs.org/es/) 
 * [MongoDb](https://www.mongodb.com/es) 
 * [Express](https://expressjs.com/es/)
-* [Angular](https://angular.io/)
